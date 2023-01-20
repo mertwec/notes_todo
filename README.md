@@ -18,4 +18,5 @@ python3 manage.py run
 
 --------------------------------------------
 db: json file
+
 back: fastapi
